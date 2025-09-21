@@ -56,6 +56,76 @@ build CMakeFiles\CMake_shapes.dir\CMake_shapes.cpp.obj: CXX_COMPILER__CMake_shap
   TARGET_COMPILE_PDB = CMakeFiles\CMake_shapes.dir\
   TARGET_PDB = CMake_shapes.pdb
 
+build CMakeFiles\CMake_shapes.dir\shape\shape.cpp.obj: CXX_COMPILER__CMake_shapes_unscanned_Debug C$:\Users\dpoli\source\repos\CMake_shapes\shape\shape.cpp || cmake_object_order_depends_target_CMake_shapes
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI
+  OBJECT_DIR = CMakeFiles\CMake_shapes.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMake_shapes.dir\shape
+  TARGET_COMPILE_PDB = CMakeFiles\CMake_shapes.dir\
+  TARGET_PDB = CMake_shapes.pdb
+
+build CMakeFiles\CMake_shapes.dir\triangle\triangle.cpp.obj: CXX_COMPILER__CMake_shapes_unscanned_Debug C$:\Users\dpoli\source\repos\CMake_shapes\triangle\triangle.cpp || cmake_object_order_depends_target_CMake_shapes
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI
+  OBJECT_DIR = CMakeFiles\CMake_shapes.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMake_shapes.dir\triangle
+  TARGET_COMPILE_PDB = CMakeFiles\CMake_shapes.dir\
+  TARGET_PDB = CMake_shapes.pdb
+
+build CMakeFiles\CMake_shapes.dir\rightTriangle\rightTriangle.cpp.obj: CXX_COMPILER__CMake_shapes_unscanned_Debug C$:\Users\dpoli\source\repos\CMake_shapes\rightTriangle\rightTriangle.cpp || cmake_object_order_depends_target_CMake_shapes
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI
+  OBJECT_DIR = CMakeFiles\CMake_shapes.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMake_shapes.dir\rightTriangle
+  TARGET_COMPILE_PDB = CMakeFiles\CMake_shapes.dir\
+  TARGET_PDB = CMake_shapes.pdb
+
+build CMakeFiles\CMake_shapes.dir\isoscelesTriangle\isoscelesTriangle.cpp.obj: CXX_COMPILER__CMake_shapes_unscanned_Debug C$:\Users\dpoli\source\repos\CMake_shapes\isoscelesTriangle\isoscelesTriangle.cpp || cmake_object_order_depends_target_CMake_shapes
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI
+  OBJECT_DIR = CMakeFiles\CMake_shapes.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMake_shapes.dir\isoscelesTriangle
+  TARGET_COMPILE_PDB = CMakeFiles\CMake_shapes.dir\
+  TARGET_PDB = CMake_shapes.pdb
+
+build CMakeFiles\CMake_shapes.dir\equilateralTriangle\equilateralTriangle.cpp.obj: CXX_COMPILER__CMake_shapes_unscanned_Debug C$:\Users\dpoli\source\repos\CMake_shapes\equilateralTriangle\equilateralTriangle.cpp || cmake_object_order_depends_target_CMake_shapes
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI
+  OBJECT_DIR = CMakeFiles\CMake_shapes.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMake_shapes.dir\equilateralTriangle
+  TARGET_COMPILE_PDB = CMakeFiles\CMake_shapes.dir\
+  TARGET_PDB = CMake_shapes.pdb
+
+build CMakeFiles\CMake_shapes.dir\quadrangle\quadrangle.cpp.obj: CXX_COMPILER__CMake_shapes_unscanned_Debug C$:\Users\dpoli\source\repos\CMake_shapes\quadrangle\quadrangle.cpp || cmake_object_order_depends_target_CMake_shapes
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI
+  OBJECT_DIR = CMakeFiles\CMake_shapes.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMake_shapes.dir\quadrangle
+  TARGET_COMPILE_PDB = CMakeFiles\CMake_shapes.dir\
+  TARGET_PDB = CMake_shapes.pdb
+
+build CMakeFiles\CMake_shapes.dir\rectangle\rectangle.cpp.obj: CXX_COMPILER__CMake_shapes_unscanned_Debug C$:\Users\dpoli\source\repos\CMake_shapes\rectangle\rectangle.cpp || cmake_object_order_depends_target_CMake_shapes
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI
+  OBJECT_DIR = CMakeFiles\CMake_shapes.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMake_shapes.dir\rectangle
+  TARGET_COMPILE_PDB = CMakeFiles\CMake_shapes.dir\
+  TARGET_PDB = CMake_shapes.pdb
+
+build CMakeFiles\CMake_shapes.dir\square\square.cpp.obj: CXX_COMPILER__CMake_shapes_unscanned_Debug C$:\Users\dpoli\source\repos\CMake_shapes\square\square.cpp || cmake_object_order_depends_target_CMake_shapes
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI
+  OBJECT_DIR = CMakeFiles\CMake_shapes.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMake_shapes.dir\square
+  TARGET_COMPILE_PDB = CMakeFiles\CMake_shapes.dir\
+  TARGET_PDB = CMake_shapes.pdb
+
+build CMakeFiles\CMake_shapes.dir\parallelogram\parallelogram.cpp.obj: CXX_COMPILER__CMake_shapes_unscanned_Debug C$:\Users\dpoli\source\repos\CMake_shapes\parallelogram\parallelogram.cpp || cmake_object_order_depends_target_CMake_shapes
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI
+  OBJECT_DIR = CMakeFiles\CMake_shapes.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMake_shapes.dir\parallelogram
+  TARGET_COMPILE_PDB = CMakeFiles\CMake_shapes.dir\
+  TARGET_PDB = CMake_shapes.pdb
+
+build CMakeFiles\CMake_shapes.dir\rhomb\rhomb.cpp.obj: CXX_COMPILER__CMake_shapes_unscanned_Debug C$:\Users\dpoli\source\repos\CMake_shapes\rhomb\rhomb.cpp || cmake_object_order_depends_target_CMake_shapes
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI
+  OBJECT_DIR = CMakeFiles\CMake_shapes.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMake_shapes.dir\rhomb
+  TARGET_COMPILE_PDB = CMakeFiles\CMake_shapes.dir\
+  TARGET_PDB = CMake_shapes.pdb
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CMake_shapes
@@ -64,7 +134,7 @@ build CMakeFiles\CMake_shapes.dir\CMake_shapes.cpp.obj: CXX_COMPILER__CMake_shap
 #############################################
 # Link the executable CMake_shapes.exe
 
-build CMake_shapes.exe: CXX_EXECUTABLE_LINKER__CMake_shapes_Debug CMakeFiles\CMake_shapes.dir\CMake_shapes.cpp.obj
+build CMake_shapes.exe: CXX_EXECUTABLE_LINKER__CMake_shapes_Debug CMakeFiles\CMake_shapes.dir\CMake_shapes.cpp.obj CMakeFiles\CMake_shapes.dir\shape\shape.cpp.obj CMakeFiles\CMake_shapes.dir\triangle\triangle.cpp.obj CMakeFiles\CMake_shapes.dir\rightTriangle\rightTriangle.cpp.obj CMakeFiles\CMake_shapes.dir\isoscelesTriangle\isoscelesTriangle.cpp.obj CMakeFiles\CMake_shapes.dir\equilateralTriangle\equilateralTriangle.cpp.obj CMakeFiles\CMake_shapes.dir\quadrangle\quadrangle.cpp.obj CMakeFiles\CMake_shapes.dir\rectangle\rectangle.cpp.obj CMakeFiles\CMake_shapes.dir\square\square.cpp.obj CMakeFiles\CMake_shapes.dir\parallelogram\parallelogram.cpp.obj CMakeFiles\CMake_shapes.dir\rhomb\rhomb.cpp.obj
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib

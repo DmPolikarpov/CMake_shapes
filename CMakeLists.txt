@@ -12,7 +12,7 @@ endif()
 project ("CMake_shapes")
 
 # Добавьте источник в исполняемый файл этого проекта.
-add_executable (CMake_shapes "CMake_shapes.cpp" )
+add_executable (CMake_shapes "CMake_shapes.cpp"  "shape/shape.cpp" "shape/shape.h" "triangle/triangle.cpp" "triangle/triangle.h" "rightTriangle/rightTriangle.cpp" "rightTriangle/rightTriangle.h" "isoscelesTriangle/isoscelesTriangle.cpp" "isoscelesTriangle/isoscelesTriangle.h" "equilateralTriangle/equilateralTriangle.cpp" "equilateralTriangle/equilateralTriangle.h" "quadrangle/quadrangle.cpp" "quadrangle/quadrangle.h" "rectangle/rectangle.cpp" "rectangle/rectangle.h" "square/square.cpp" "square/square.h" "parallelogram/parallelogram.cpp" "parallelogram/parallelogram.h" "rhomb/rhomb.cpp" "rhomb/rhomb.h")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET CMake_shapes PROPERTY CXX_STANDARD 20)

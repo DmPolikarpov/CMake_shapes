@@ -1,0 +1,13 @@
+# ninja log v6
+8	340	7801882181690933	CMakeFiles/CMake_shapes.dir/shape/shape.cpp.obj	fdf7f6a2a840dcd2
+14	341	7801882181690933	CMakeFiles/CMake_shapes.dir/rightTriangle/rightTriangle.cpp.obj	fe0244b744798544
+17	341	7801882181690933	CMakeFiles/CMake_shapes.dir/isoscelesTriangle/isoscelesTriangle.cpp.obj	cfdf8cc3ee48fce
+33	342	7801882181850592	CMakeFiles/CMake_shapes.dir/parallelogram/parallelogram.cpp.obj	aaac26529028c4c6
+27	342	7801882181850592	CMakeFiles/CMake_shapes.dir/rectangle/rectangle.cpp.obj	a2ed79552f70cdee
+20	343	7801882181850592	CMakeFiles/CMake_shapes.dir/equilateralTriangle/equilateralTriangle.cpp.obj	3a1fe08c3ccd8782
+36	343	7801882181850592	CMakeFiles/CMake_shapes.dir/rhomb/rhomb.cpp.obj	4f63793708b82f0b
+30	344	7801882181850592	CMakeFiles/CMake_shapes.dir/square/square.cpp.obj	caa546747cc404c
+24	890	7801882181850592	CMakeFiles/CMake_shapes.dir/quadrangle/quadrangle.cpp.obj	d8142dcedf3c52bc
+11	892	7801882181690933	CMakeFiles/CMake_shapes.dir/triangle/triangle.cpp.obj	1c0537f4ab95c00a
+5	1159	7801882181690933	CMakeFiles/CMake_shapes.dir/CMake_shapes.cpp.obj	c676f85d8e76474a
+1159	1489	7801882193232140	CMake_shapes.exe	14d66674c3f3b72
